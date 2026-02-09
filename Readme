@@ -1,85 +1,72 @@
-# 🚀 Cursor.ai Landing Page Clone
+🚀✨ Mintlify Inspired Documentation Landing Page
 
-A frontend landing page project inspired by the Cursor.ai website, built using pure HTML and CSS.
-This project focuses on replicating a modern UI layout while maintaining responsiveness and clean design structure.
 
-Built during my learning journey in the Chai and Code Web Development Cohort.
 
----
 
-## Features
 
- Navigation Bar
 
- Modern Landing Page Layout
 
- CTA Buttons (Sign In & Download)
 
- Testimonial Section using CSS Grid
 
- Clean Footer Design
 
----
+This project recreates a production-level documentation landing interface inspired by modern SaaS documentation platforms.
 
-## Tech Stack
+Built completely using core frontend technologies without any frameworks to strengthen layout fundamentals.
 
-HTML5
+🚀 Why This Project?
 
-CSS3
+Instead of directly copying UI, this project was built to:
 
-Flexbox
+Understand real product UI structure
 
----
+Practice spacing, hierarchy, and readability
 
-## Development Approach
-🔹 Layout Measuring Method
+Implement modern glass UI effects
 
-Inspected reference layout carefully
+Build pixel-accurate layouts manually
 
-Measured approximate width and height of elements
+Simulate real-world frontend workflow
 
-Matched spacing and alignment manually
+🧩 Core Highlights
+🌫 Glassmorphism Interface
 
-Focused on near pixel-perfect UI
+Blur-based translucent UI components for modern look & feel
 
-🔹 Border Debugging Technique
+📐 Structured Content Container
 
-Used temporary borders to understand element structure
+Optimized reading width for documentation-style layout
 
-Helped fix spacing and alignment issues
+🧭 Minimal Navigation Experience
 
-Removed borders after layout was finalized
+Focused top navigation with clear action buttons
 
----
+📩 Interactive Subscription Module
 
-## 📷 Screenshots
+Modern input + CTA interaction design
+
+🎯 Visual Hero Section
+
+Overlay typography with layered background visuals
+
+🧱 Production Style Footer
+
+Multi-column structured navigation system
+
+🛠 Built With
+Technology	Purpose
+HTML5	Semantic page structure
+CSS3	Styling & layout
+Flexbox	Alignment & spacing
+Backdrop Filters	Glass UI effects
+CSS Transitions	Micro interactions
+📷 Screenshots
 
 Here are some screenshots of the project:
- 
-![Screenshot](/screenshots/Screenshot%202026-02-05%20015825.png)
-![Screenshot](/screenshots/Screenshot%202026-02-05%20015825.png)
-![Screenshot](/screenshots/Screenshot%202026-02-05%20015825.png)
 
----
-
-## 📚 Learning Outcomes
-
-Real-world landing page structuring
-
-Practical use of Flexbox
-
-UI spacing and alignment understanding
-
-Hover effects and transition improvements
-
-Debugging layouts using borders
-
----
-
-## Acknowledgement
+🙏 Acknowledgement
 
 Thanks to Chai and Code for guidance and structured learning.
 
-## Author
- Ankit kumar singh
+👨‍💻 Author
 
+Ankit Kumar Singh
