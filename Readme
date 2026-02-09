@@ -1,19 +1,10 @@
-🚀✨ Mintlify Inspired Documentation Landing Page
-
-
-
-
-
-
-
-
-
+#🚀✨ Mintlify Inspired Documentation Landing Page
 
 This project recreates a production-level documentation landing interface inspired by modern SaaS documentation platforms.
 
 Built completely using core frontend technologies without any frameworks to strengthen layout fundamentals.
 
-🚀 Why This Project?
+#🚀 Why This Project?
 
 Instead of directly copying UI, this project was built to:
 
@@ -27,7 +18,7 @@ Build pixel-accurate layouts manually
 
 Simulate real-world frontend workflow
 
-🧩 Core Highlights
+#🧩 Core Highlights
 🌫 Glassmorphism Interface
 
 Blur-based translucent UI components for modern look & feel
@@ -52,21 +43,22 @@ Overlay typography with layered background visuals
 
 Multi-column structured navigation system
 
-🛠 Built With
+#🛠 Built With
 Technology	Purpose
 HTML5	Semantic page structure
 CSS3	Styling & layout
 Flexbox	Alignment & spacing
 Backdrop Filters	Glass UI effects
 CSS Transitions	Micro interactions
-📷 Screenshots
+
+#📷 Screenshots
 
 Here are some screenshots of the project:
 
-🙏 Acknowledgement
+##🙏 Acknowledgement
 
 Thanks to Chai and Code for guidance and structured learning.
 
-👨‍💻 Author
+#👨‍💻 Author
 
 Ankit Kumar Singh
