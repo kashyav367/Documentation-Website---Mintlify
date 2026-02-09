@@ -48,7 +48,7 @@ Overlay typography with layered background visuals
 Multi-column structured navigation system
 
 # 🛠 Built With
-Technology	Purpose
+
 HTML5	Semantic page structure
 CSS3	Styling & layout
 Flexbox	Alignment & spacing
