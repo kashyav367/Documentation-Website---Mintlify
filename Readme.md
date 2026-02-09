@@ -47,6 +47,8 @@ Overlay typography with layered background visuals
 
 Multi-column structured navigation system
 
+---
+
 # 📷 Screenshots
 
 Here are some screenshots of the project:
