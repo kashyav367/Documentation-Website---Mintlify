@@ -1,70 +1,75 @@
-## Mintlify Inspired Documentation Landing Page
+# 🚀 Mintlify Inspired Documentation Landing Page
 
-This project recreates a production-level documentation landing interface inspired by modern SaaS documentation platforms.
-Built completely using core frontend technologies without any frameworks to strengthen layout fundamentals.
+> Production-level documentation landing interface inspired by modern SaaS documentation platforms.
+
+Built completely using core frontend technologies (No Frameworks) to strengthen layout fundamentals and real-world UI understanding.
 
 ---
 
-## 🚀 Why This Project?
+## ✨ Why This Project?
 
 Instead of directly copying UI, this project was built to:
 
-Understand real product UI structure
-
-Practice spacing, hierarchy, and readability
-
-Implement modern glass UI effects
-
-Build pixel-accurate layouts manually
-
-Simulate real-world frontend workflow
+- Understand real product UI structure  
+- Practice spacing, hierarchy, and readability  
+- Implement modern glass UI effects  
+- Build pixel-accurate layouts manually  
+- Simulate real-world frontend workflow  
 
 ---
 
 ## 🧩 Core Highlights
 
-🌫 Glassmorphism Interface
-Blur-based translucent UI components for modern look & feel
+### 🌫 Glassmorphism Interface
+Blur-based translucent UI components for modern modern SaaS look & feel  
 
-📐 Structured Content Container
-Optimized reading width for documentation-style layout
+### 📐 Structured Content Container
+Optimized reading width for documentation-style layout  
 
-🧭 Minimal Navigation Experience
-Focused top navigation with clear action buttons
+### 🧭 Minimal Navigation Experience
+Focused top navigation with clear action buttons  
 
-📩 Interactive Subscription Module
-Modern input + CTA interaction design
+### 📩 Interactive Subscription Module
+Modern input + CTA interaction design  
 
-🎯 Visual Hero Section
-Overlay typography with layered background visuals
+### 🎯 Visual Hero Section
+Overlay typography with layered background visuals  
 
-🧱 Production Style Footer
-Multi-column structured navigation system
----
-
-## Built With
-Technology	                Purpose
-HTML5	               Semantic page structure
-CSS3	                Styling & layout
-Flexbox	                Alignment & spacing
-Backdrop Filters	     Glass UI effects
-CSS Transitions      	Micro interactions
----
-
-## 📷 Screenshots
-
-Here are some screenshots of the project:
- 
-![Screenshot](/screenshots/Screenshot%202026-02-09%20095148.png)
-![Screenshot](/screenshots/Screenshot%202026-02-09%20095202.png)
-![Screenshot](/screenshots/Screenshot%202026-02-09%20095215.png)
+### 🧱 Production Style Footer
+Multi-column structured navigation system  
 
 ---
 
-## Acknowledgement
+## 🛠 Built With
 
-Thanks to Chai and Code for guidance and structured learning.
+| Technology | Purpose |
+|---|---|
+| HTML5 | Semantic page structure |
+| CSS3 | Styling & layout |
+| Flexbox | Alignment & spacing |
+| Backdrop Filters | Glass UI effects |
+| CSS Transitions | Micro interactions |
 
-## Author
+---
 
-   Ankit kumar singh
+## 📸 Screenshots
+
+### 🖥 Landing UI Preview
+
+![Landing Screenshot](./screenshots/Screenshot%202026-02-09%20095148.png)
+
+![Landing Screenshot](./screenshots/Screenshot%202026-02-09%20095202.png)
+
+![Landing Screenshot](./screenshots/Screenshot%202026-02-09%20095215.png)
+
+---
+
+## 🙏 Acknowledgement
+
+Special thanks to **Chai and Code** for guidance and structured learning.
+
+---
+
+## 👨‍💻 Author
+
+**Ankit Kumar Singh**
