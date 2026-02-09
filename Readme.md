@@ -18,8 +18,9 @@ Implement modern glass UI effects
 Build pixel-accurate layouts manually
 
 Simulate real-world frontend workflow
+---
 
-#🧩 Core Highlights
+# 🧩 Core Highlights
 🌫 Glassmorphism Interface
 
 Blur-based translucent UI components for modern look & feel
@@ -44,7 +45,8 @@ Overlay typography with layered background visuals
 
 Multi-column structured navigation system
 
-#🛠 Built With
+#  🛠 Built With
+
 Technology	Purpose
 HTML5	Semantic page structure
 CSS3	Styling & layout
@@ -52,14 +54,18 @@ Flexbox	Alignment & spacing
 Backdrop Filters	Glass UI effects
 CSS Transitions	Micro interactions
 
+---
+
 #📷 Screenshots
 
 Here are some screenshots of the project:
 
-##🙏 Acknowledgement
+##  🙏 Acknowledgement
 
 Thanks to Chai and Code for guidance and structured learning.
 
-#👨‍💻 Author
+#  👨‍💻 Author
+
+   AMKIT KUMAR SINGH
 
 Ankit Kumar Singh
